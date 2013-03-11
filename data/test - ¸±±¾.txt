@@ -1,0 +1,19 @@
+program sample(a1,b2)
+var a,b:integer;
+var c,d:real;
+begin
+a:=1;
+b:=2;
+a:=b+c3;
+a:=8+7+6+5+4+3+2+1+9*8 
+mod 7-6+5+4
+div 3;
+
+if a<b *  -10-9+8+8*7/6 div 5
+then 
+a    :=3
+else
+a:=2;
+while a+8*a<b-7
+do a:=a+2
+end
